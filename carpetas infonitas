@@ -1,0 +1,7 @@
+cd C:\Users\Administrador\Desktop
+$A = 1
+while ($A -eq 1) {
+$b = Get-Random
+mkdir $b
+
+}
